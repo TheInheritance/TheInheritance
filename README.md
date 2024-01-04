@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheInheritance
+- 👋 Hi, I’m Joshua Jordan
 - 👀 I’m interested in computer science and machine learning
 - 🌱 I’m currently learning computer science and machine learning
 - 💞️ I’m looking to collaborate on great ideas
